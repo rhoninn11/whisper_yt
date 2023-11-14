@@ -1,4 +1,4 @@
-# Septucha_yt
+# whisper_yt
 
 Skryprowa aplikacja do tłumaczenia video z youtube
 
